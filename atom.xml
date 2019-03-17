@@ -5,9 +5,9 @@
   
   <link href="/jennifer/atom.xml" rel="self"/>
   
-  <link href="https://jenniferyue.github.io/"/>
+  <link href="https://jenniferyue.github.io/jennifer/"/>
   <updated>2019-03-17T06:02:56.836Z</updated>
-  <id>https://jenniferyue.github.io/</id>
+  <id>https://jenniferyue.github.io/jennifer/</id>
   
   <author>
     <name>Jennifer Yue</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://jenniferyue.github.io/2019/03/17/hello-world/"/>
-    <id>https://jenniferyue.github.io/2019/03/17/hello-world/</id>
+    <link href="https://jenniferyue.github.io/jennifer/2019/03/17/hello-world/"/>
+    <id>https://jenniferyue.github.io/jennifer/2019/03/17/hello-world/</id>
     <published>2019-03-17T06:02:56.836Z</published>
     <updated>2019-03-17T06:02:56.836Z</updated>
     
