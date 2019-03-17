@@ -6,7 +6,7 @@
   <link href="/jennifer/atom.xml" rel="self"/>
   
   <link href="https://jenniferyue.github.io/jennifer/"/>
-  <updated>2019-03-17T06:02:56.836Z</updated>
+  <updated>2019-03-17T12:41:04.265Z</updated>
   <id>https://jenniferyue.github.io/jennifer/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>My First work</title>
+    <link href="https://jenniferyue.github.io/jennifer/2019/03/17/My-First-work/"/>
+    <id>https://jenniferyue.github.io/jennifer/2019/03/17/My-First-work/</id>
+    <published>2019-03-17T12:31:00.000Z</published>
+    <updated>2019-03-17T12:41:04.265Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/jennifer/images/pasted-0.png" alt="upload successful"></p><p><img src="/jennifer/images/pasted-2.png" alt="upload successful"></p><p><img src="/jennifer/images/pasted-3.png" alt="upload successful"></p><p><img src="/jennifer/images/pasted-10.png" alt="upload successful"></p><p><img src="/jennifer/images/pasted-5.png" alt="upload successful"></p><p><img src="/jennifer/images/pasted-6.png" alt="upload successful"></p><p><img src="/jennifer/images/pasted-7.png" alt="upload successful"></p><p><img src="/jennifer/images/pasted-8.png" alt="upload successful"></p><p><img src="/jennifer/images/pasted-9.png" alt="upload successful"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;/jennifer/images/pasted-0.png&quot; alt=&quot;upload successful&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/jennifer/images/pasted-2.png&quot; alt=&quot;upload successful&quot;
+      
+    
+    </summary>
+    
+      <category term="Design" scheme="https://jenniferyue.github.io/jennifer/categories/Design/"/>
+    
+    
+      <category term="Design" scheme="https://jenniferyue.github.io/jennifer/tags/Design/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
